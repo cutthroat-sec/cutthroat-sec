@@ -1,5 +1,5 @@
 ## About us
-***[Cutthroat Security Team](https://x.com/cutthroat_sec)*** is led by 2 highly qualified and experienced security researchers with over 1.5 years in the smart contract security space with proven track record. We've collectively uncovered 50+ H/M severity vulnerabilities across top-tier protocols and have previously worked full-time as security researchers. Our experience spans both public contests and private audits, with a strong emphasis on deep technical analysis, precise reporting, and validated findings. We're committed to delivering high-impact results in every engagement. 
+***[Cutthroat Security Team](https://x.com/cutthroat_sec)*** is led by two highly qualified and experienced security researchers with over 1.5 years in the smart contract security space, with a proven track record. We've collectively uncovered 50+ H/M severity vulnerabilities across top-tier protocols and have previously worked full-time as security researchers. Our experience spans both public contests and private audits, with a strong emphasis on deep technical analysis, precise reporting, and validated findings. We're committed to delivering high-impact results in every engagement. 
 
 Book us
 If you are looking for experienced smart contract auditors to secure your protocol, you can contact us at:
