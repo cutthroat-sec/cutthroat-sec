@@ -15,9 +15,9 @@ If you are looking for experienced smart contract auditors to secure your protoc
 - [Silo Finance V2](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard) 1st Rank🥇
 - [Mento](https://audits.sherlock.xyz/contests/187) 1st Rank🥇
 
-## Public Audit Contest 
+## Public Audit Contests 
 
-| Projects                                                           | Project Description      | Platform   | Result |                         Report                         |  
+| Protocol                                                           | Project Description      | Platform   | Result |                         Report                         |  
 | :---------------------------------------------------------------- | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
 | [Silo Finance V2](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard)            | Isolated lending markets | Cantina  | #**1**/410 🥇| [📄](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard) |
 | [Mento](https://audits.sherlock.xyz/contests/187)                 | Decentralized Stablecoin Platform | Sherlock | #**1**/27 🥇| [📄](https://audits.sherlock.xyz/contests/187/leaderboard)|
@@ -25,3 +25,10 @@ If you are looking for experienced smart contract auditors to secure your protoc
 | [Blend V2](https://code4rena.com/audits/2025-02-blend-v2-audit-certora-formal-verification) | (Stellar, Rust) Liquidity Protocol | Code4rena | #**17**/654 | 📄 |
 | [Autonomint Colored Dollar V1](https://audits.sherlock.xyz/contests/569) |  100% synthetic LTV for lending | Sherlock | #**21**/347 | [📄](https://audits.sherlock.xyz/contests/569/report) |
 | [ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | Omni/Cross-chain universal Blockchain  | Cantina | - | [📄](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e)  |
+
+
+## Private Audits
+
+| Protocol                                                         | Lang - ecosystem      | Description | Provider   | Findings |                         Report                    |  
+| :---------------------------------------------------------------- | :------------------------ | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
+| Daos Live           | ✳️ Solidity, Abstract chain | DAOs Launchpad, Vesting | Shieldify  | 21 Issues (2C, 4H, 4M, 7L, 4I) | [📄](https://github.com/shieldify-security/audits-portfolio-md/blob/main/DaosLive-Security-Review.md)
