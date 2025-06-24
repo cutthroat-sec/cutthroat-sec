@@ -32,3 +32,9 @@ If you are looking for experienced smart contract auditors to secure your protoc
 | Protocol                                                         | Lang - ecosystem      | Description | Provider   | Findings |                         Report                    |  
 | :---------------------------------------------------------------- | :------------------------ | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
 | Daos Live           | ✳️ Solidity, Abstract chain | DAOs Launchpad, Vesting | Shieldify  | 21 Issues (2C, 4H, 4M, 7L, 4I) | [📄](https://github.com/shieldify-security/audits-portfolio-md/blob/main/DaosLive-Security-Review.md)
+
+## Community about us & Client Feedback: 
+
+![SS1](https://github.com/user-attachments/assets/10c34f7a-6390-4773-b9a2-2994155a78a9)
+___
+<img width="482" alt="Screenshot 2025-06-24 at 6 19 58 AM" src="https://github.com/user-attachments/assets/de82d366-73b2-42e6-bae4-d4804af9edf3" />
